@@ -1,3 +1,3 @@
 # my first website
 
-Welcome! [code institute] (https://codeinstitute.net)sss
+Welcome! [code institute] (https://codeinstitute.net)
